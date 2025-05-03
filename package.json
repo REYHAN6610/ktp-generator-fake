@@ -1,0 +1,15 @@
+{
+  "name": "ktp-generator",
+  "version": "1.0.0",
+  "description": "Generate fake KTP using Jimp and PureImage",
+  "main": "client.js",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "author": "REYHAN6610",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "pureimage": "^0.3.7"
+  }
+}
