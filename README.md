@@ -20,7 +20,7 @@ E-KTP Fake Generator is a Node.js CLI tool that generates a high-resolution imag
 
 > Below is a simulated preview of the generated ID:
 
-![preview](./preview.png)
+![preview](./result.png)
 
 ---
 
