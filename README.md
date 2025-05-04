@@ -27,6 +27,10 @@ E-KTP Fake Generator is a Node.js CLI tool that generates a high-resolution imag
 ## Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/username/ektp-generator.git
-   cd ektp-generator
+   ```nodejs
+`
+pkg update
+pkg upgrade
+pkg install git -y
+pkg install yarn -y
+`
